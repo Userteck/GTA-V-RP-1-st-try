@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Dolbimled",
+    "master": true,
+    "password_hash": "$2a$11$n/y8IQmSL0BaaKCPIbxEhuNeORHNNp6Jb/9EaYlrsW0ffSa7/T1.G",
+    "providers": {
+      "citizenfx": {
+        "id": "Dolbimled",
+        "identifier": "fivem:1968302",
+        "data": {
+          "sub": "81a21daa8afb104fbade7987779e1712",
+          "nameid": "https://forum.cfx.re/internal/user/1968302",
+          "name": "Dolbimled",
+          "picture": "https://forum.cfx.re/user_avatar/forum.cfx.re/dolbimled/256/1067991_2.png",
+          "profile": "https://forum.cfx.re/u/Dolbimled"
+        }
+      }
+    },
+    "permissions": []
+  }
+]
