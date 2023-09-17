@@ -6,4 +6,4 @@ This is not a completely finished mod, but the necessary files
 To start the server you need:
 -Download FiveM and have the GTA V game downloaded
 -Download FXServer and install it in the "Documents" folder
--Put these files to a specific folder
+-Put files from this folder to specific folder (folder is indicated in the description)
